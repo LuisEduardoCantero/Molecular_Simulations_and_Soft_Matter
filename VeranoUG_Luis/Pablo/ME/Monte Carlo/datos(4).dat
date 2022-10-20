@@ -1,0 +1,14 @@
+ Semilla=         -50
+ Número de partículas: np=         343
+ Pasos en g(r): nr=         349
+ Configuraciones guardadas: nt=           8
+ Diametro: diam=   9.9999999999999995E-007
+ Distanca pormedio: dd=   1.7364656842675644E-006
+ Factor de llenado: phi=  0.10000000149011612     
+ Número de configuraciones: ncp=         100
+ Configuraciones de termalizacion: nct=          20
+ Cada cuando analizar configuración: ncep=          10
+ Configuraciones   10.645346000000000     
+ funciones g(r)  0.19692799999999977     
+ Factores de estructura S(q)   2.3000000000550358E-005
+ tiempo de ejecución   10.842322000000001     
